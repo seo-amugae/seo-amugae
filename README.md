@@ -56,7 +56,7 @@
 * **[프로젝트 설명]** 순정 옵션이 없는 차량의 승하차 편의를 위해, 차량 시동 상태와 기어 상태(P단)를 감지하여 시트 포지션을 자동으로 조절하는 하드웨어 시스템을 개발했습니다.
 * **[주요 역할]** 개인 프로젝트 (회로 설계, Arduino 프로그래밍 및 차량 설치)
 * **[사용한 기술]** `Arduino (C++)`, `Relay`
-* **[관련 링크]** `[ GitHub Repository 링크를 여기에 추가 ]`
+* **[관련 링크]** <a href="https://github.com/seo-amugae/auto-seat-height-controller"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
