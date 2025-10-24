@@ -41,7 +41,7 @@
 * **[관련 링크]** <a href="https://github.com/kccistc/intel-08/tree/main/Team2"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ### 2. AI 기반 장문 텍스트 요약 서비스 (캡스톤 디자인)
-* **[프로젝트 설명]** SKT의 KoBERT 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
+* **[프로젝트 설명]** SKT의 KoBART 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
 * **[주요 역할]** [ 3인 1조로 진행, 본인이 맡은 역할을 여기에 구체적으로 작성 (예: FastAPI 백엔드 개발 및 API 설계) ]
 * **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
 * **[관련 링크]** `[ GitHub Repository 링크를 여기에 추가 ]`
