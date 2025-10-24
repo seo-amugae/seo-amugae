@@ -19,7 +19,7 @@
 | **Embedded Systems** | STM32 / Arduino / U-Boot / BSP / Device Driver |
 | **AI / Frameworks** | OpenVINO / PyTorch / ONNX / FastAPI / Hugging Face |
 | **Database & Web** | MySQL / PHP / HTML / JavaScript / Tkinter |
-| **Tools & Environment** | Jetson Nano / Orin / Ubuntu / VSCode / Git / PySerial |
+| **Tools & Environment** | Jetson Nano Orin / Ubuntu / VSCode / Git |
 
 ---
 
