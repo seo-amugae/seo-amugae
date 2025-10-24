@@ -1,93 +1,86 @@
-# 👋 Hello, I'm Seo  
-### Embedded & AI Developer in Training
+<h1 align="left">
+  👋 안녕하세요! 서채건입니다.
+</h1>
+
+<p align="left">
+  하드웨어의 가능성을 소프트웨어로 실현하는 것에 흥미를 느끼고 있습니다. <br>
+  C/C++ 기반의 펌웨어 및 커널 드라이버 개발부터, Python과 OpenVINO를 활용한 <br>
+  Edge AI 애플리케이션 개발까지 아우르는 개발자를 목표로 하고 있습니다.
+</p>
+
+<br>
+
+## 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  
+  <br>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetson Nano-000000?style=for-the-badge&logo=nvidia&logoColor=76B900">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 ---
 
-## 👨‍💻 About Me
-임베디드 시스템 개발자로 성장하기 위해 하드웨어 제어부터 커널 드라이버, BSP, U-Boot 등  
-시스템 전반을 학습하고 있습니다.  
-최근에는 **임베디드 환경에서 AI 기술(OpenVINO, PyTorch, ONNX 등)** 을 접목하여  
-지능형 제어 시스템을 개발하는 데 집중하고 있습니다.
+## 🚀 Featured Projects
+
+### 1. OpenVINO 기반 공장 컨베이어 자동화 시스템
+* **[프로젝트 설명]** OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
+* **[주요 역할]** **PM(프로젝트 관리)**을 맡아 전체 **코드 통합** 및 **하드웨어 연동** 테스트를 총괄했습니다. (Arduino 통신, 컨베이어 제어 등)
+* **[사용한 기술]** `Python`, `OpenVINO`, `Tkinter`, `Arduino`, `MySQL`, `PySerial`
+* **[관련 링크]** <a href="https://github.com/kccistc/intel-08/tree/main/Team2"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+### 2. AI 기반 장문 텍스트 요약 서비스 (캡스톤 디자인)
+* **[프로젝트 설명]** SKT의 KoBERT 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
+* **[주요 역할]** [ 3인 1조로 진행, 본인이 맡은 역할을 여기에 구체적으로 작성 (예: FastAPI 백엔드 개발 및 API 설계) ]
+* **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
+* **[관련 링크]** `[ GitHub Repository 링크를 여기에 추가 ]`
+
+### 3. CDS 센서 기반 태양광 패널 추적 시스템
+* **[프로젝트 설명]** 8방위로 배치된 CDS 조도 센서 모듈을 통해 가장 밝은 빛을 감지하고, STM32 보드를 이용해 태양광 패널이 항상 태양을 향하도록 자동 회전하는 시스템을 구현했습니다.
+* **[주요 역할]** **STM32 파트의 하드웨어 설계** 및 **펌웨어 프로그래밍**을 담당했습니다. (ESP8266 WiFi 통신, MySQL DB 데이터 저장, 패널 회전 로직 구현)
+* **[사용한 기술]** `C`, `STM32`, `Arduino`, `MySQL`, `HTML`
+* **[관련 링크]** <a href="https://github.com/intel-edge-ai-sw-8/250826_2nd_miniproj_08"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+### 4. 차량 승하차 편의를 위한 자동 시트 조절기 (개인 프로젝트)
+* **[프로젝트 설명]** 순정 옵션이 없는 차량의 승하차 편의를 위해, 차량 시동 상태와 기어 상태(P단)를 감지하여 시트 포지션을 자동으로 조절하는 하드웨어 시스템을 개발했습니다.
+* **[주요 역할]** 개인 프로젝트 (회로 설계, Arduino 프로그래밍 및 차량 설치)
+* **[사용한 기술]** `Arduino (C++)`, `Relay`
+* **[관련 링크]** `[ GitHub Repository 링크를 여기에 추가 ]`
 
 ---
 
-## 🧠 Technical Skills
+## 🌱 Currently Learning
 
-| 분야 | 기술 스택 |
-|------|------------|
-| **Languages** | C / C++ / Python |
-| **Embedded Systems** | STM32 / Arduino / U-Boot / BSP / Device Driver |
-| **AI / Frameworks** | OpenVINO / PyTorch / ONNX / FastAPI / Hugging Face |
-| **Database & Web** | MySQL / PHP / HTML / JavaScript / Tkinter |
-| **Tools & Environment** | Jetson Nano Orin / Ubuntu / VSCode / Git |
+<p>
+  현재 임베디드 시스템의 더 깊은 이해를 위해 아래 기술들을 학습하고 있습니다.
+</p>
 
----
-
-## 📂 Projects
-
-### [1] Long Text Summarization Service *(Capstone Project)*
-> SKT의 긴글 요약 모델을 활용한 자연어 요약 웹 애플리케이션 개발  
-> **Tech Stack:** Python, FastAPI, HuggingFace, Pydantic, PyTorch, Uvicorn, HTML, PHP, JS  
-> **Platform:** Jetson Nano / Orin  
-> **Role:** 백엔드 및 모델 통합 개발  
+* **Linux Kernel Driver:** 리눅스 환경에서 하드웨어를 직접 제어하기 위한 디바이스 드라이버 작성법
+* **U-Boot & BSP:** 부트로더(U-Boot) 포팅 및 보드 특화된 BSP(Board Support Package) 구축
+* **Embedded System Optimization:** 저전력, 고성능을 위한 시스템 최적화 기법
 
 ---
 
-### [2] Solar Tracking System
-> CDS 센서를 8방향에 배치하여 태양광 패널이 가장 밝은 방향을 자동 추적하도록 구현  
-> **Tech Stack:** STM32, Arduino, C, HTML, MySQL  
-> **Role:** MCU 제어 로직 및 데이터 모니터링 웹 UI 개발  
+## 📫 Connect with Me
+
+E-MAIL: seo@chaegeon.com
 
 ---
 
-### [3] Factory Conveyor Automation System
-> 단일 컨베이어에서 AI 모델 전환만으로 여러 제품 불량 선별을 가능하게 한 자동화 시스템 개발  
-> **Tech Stack:** Python, Tkinter, OpenVINO, Arduino, MySQL, PySerial  
-> **Role:** AI 모델 통합, GUI 설계, Arduino 연동 제어  
+## 📊 GitHub Stats
 
----
-
-### [4] Smart Car Seat Adjustment *(Personal Project)*
-> 시동 및 기어 상태를 감지해 자동으로 시트를 조정하는 차량 편의 기능 구현  
-> **Tech Stack:** Arduino, Relay  
-> **Role:** 센서 입력 기반 자동 제어 로직 설계  
-
----
-
-## 🧠 Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux Embedded](https://img.shields.io/badge/Linux_Embedded-000000?logo=linux&logoColor=white)
-![Firmware](https://img.shields.io/badge/Firmware-6E6E6E)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoftoffice&logoColor=white)
-![BSP](https://img.shields.io/badge/BSP-0078D7)
-![ARM](https://img.shields.io/badge/ARM-0091BD?logo=arm&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?logo=STMicroelectronics&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-0092D0?logo=openvino&logoColor=white)
-
----
-
-## 🎯 Career Objective
-- 커널 드라이버 및 BSP 포팅 역량 강화  
-- 임베디드 환경에서의 AI 모델 최적화 및 실시간 제어 기술 확보  
-- **AI와 하드웨어가 결합된 지능형 임베디드 시스템 개발자**로 성장  
-
----
-
-## 📫 Contact
-- **Email:** your.email@example.com  
-- **GitHub:** [github.com/your-id](https://github.com/your-id)  
-- **Location:** Seoul, Republic of Korea  
-
----
-
-> *“Building reliable embedded systems that think intelligently.”*
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=seo-amugae&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo-amugae&layout=compact&theme=radical" alt="Top Languages">
+</p>
