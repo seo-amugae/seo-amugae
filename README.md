@@ -8,8 +8,6 @@
   Edge AI 애플리케이션 개발까지 아우르는 개발자를 목표로 하고 있습니다.
 </p>
 
-<br>
-
 ## Tech Stack & Skills
 
 <p align="left">
@@ -57,6 +55,7 @@
 * **[주요 역할]** 개인 프로젝트 (회로 설계, Arduino 프로그래밍 및 차량 설치)
 * **[사용한 기술]** `Arduino`, `Relay`
 * **[관련 링크]** <a href="https://github.com/seo-amugae/auto-seat-height-controller"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+* **[영상]** <a href="https://youtu.be/nxEUnxjBgeY"><img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 ---
 
