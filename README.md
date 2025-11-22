@@ -10,7 +10,7 @@
 
 <br>
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. OpenVINO 기반 공장 컨베이어 자동화 시스템
 * **[프로젝트 설명]** OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
@@ -60,7 +60,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 <p>
   현재 임베디드 시스템의 더 깊은 이해를 위해 아래 기술들을 학습하고 있습니다.
@@ -72,13 +72,13 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 E-MAIL: seo@chaegeon.com
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=seo-amugae&show_icons=true&theme=radical" alt="GitHub Stats">
