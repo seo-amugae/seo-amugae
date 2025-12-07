@@ -88,10 +88,3 @@
 E-MAIL: seo@chaegeon.com
 
 ---
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seo-amugae&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo-amugae&layout=compact&theme=radical" alt="Top Languages">
-</p>
