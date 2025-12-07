@@ -86,5 +86,3 @@
 ## Connect with Me
 
 E-MAIL: seo@chaegeon.com
-
----
