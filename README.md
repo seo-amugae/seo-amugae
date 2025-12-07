@@ -3,9 +3,10 @@
 </h1>
 
 <p align="left">
-  하드웨어의 가능성을 소프트웨어로 실현하는 것에 흥미를 느끼고 있습니다. <br>
-  C/C++ 기반의 펌웨어 및 커널 드라이버 개발부터, Python과 OpenVINO를 활용한 <br>
-  Edge AI 애플리케이션 개발까지 아우르는 개발자를 목표로 하고 있습니다.
+  센서·모터 제어부터 Edge AI 서비스까지,<br>
+  하드웨어와 소프트웨어가 함께 동작하는 시스템을 만드는 것에 흥미가 있습니다.<br>
+  Arduino, Ubuntu, Rasbery pi 기반 프로젝트 경험을 바탕으로<br>
+  임베디드와 AIoT 분야의 역량을 확장하고 있습니다.
 </p>
 
 ## Tech Stack & Skills
@@ -75,15 +76,10 @@
 
 ---
 
-## Currently Learning
+## Education
 
-<p>
-  현재 임베디드 시스템의 더 깊은 이해를 위해 아래 기술들을 학습하고 있습니다.
-</p>
-
-* **Linux Kernel Driver:** 리눅스 환경에서 하드웨어를 직접 제어하기 위한 디바이스 드라이버 작성법
-* **U-Boot & BSP:** 부트로더(U-Boot) 포팅 및 보드 특화된 BSP(Board Support Package) 구축
-* **Embedded System Optimization:** 저전력, 고성능을 위한 시스템 최적화 기법
+* **목포대학교** 정보통신공학과 졸업 예정 (2026.02.)
+* **대한상공회의소 서울기술교육센터** 인텔 AI 엣지 아카데미 교육 중 (2025.07. ~ 2026.01.)
 
 ---
 
