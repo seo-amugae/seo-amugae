@@ -50,7 +50,10 @@
 - **[프로젝트 설명]** SKT의 KoBART 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
 - **[주요 역할]** 
 - **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
-- **[관련 링크]** `[ GitHub Repository 링크를 여기에 추가 ]`
+- **[관련 링크]**  
+  <a href="https://github.com/seo-amugae/Long-article-summary">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
 
 ### 3. CDS 센서 기반 태양광 패널 추적 시스템
 - **[프로젝트 설명]** 8방위로 배치된 CDS 조도 센서 모듈을 통해 가장 밝은 빛을 감지하고, STM32 보드를 이용해 태양광 패널이 항상 태양을 향하도록 자동 회전하는 시스템을 구현했습니다.
