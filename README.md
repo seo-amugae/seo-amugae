@@ -3,10 +3,7 @@
 </h1>
 
 <p align="left">
-  센서·모터 제어부터 Edge AI 서비스까지,<br>
-  하드웨어와 소프트웨어가 함께 동작하는 시스템을 만드는 것에 흥미가 있습니다.<br>
-  Arduino, Ubuntu, Rasbery pi 기반 프로젝트 경험을 바탕으로<br>
-  임베디드와 AIoT 분야의 역량을 확장하고 있습니다.
+  센서·모터 제어부터 Edge AI까지, HW와 SW가 융합된 시스템을 만듭니다.<br>Arduino, Linux, Raspberry Pi 활용 경험을 바탕으로 Embedded & AIoT 역량을 넓혀가고 있습니다.
 </p>
 
 ## Tech Stack & Skills
@@ -33,7 +30,20 @@
 
 ## Featured Projects
 
-### 1. OpenVINO 기반 공장 컨베이어 자동화 시스템
+### 🛒 1. ROS2 기반 사용자 추적 및 안내 스마트 카트 (QT-CART)
+- **[프로젝트 설명]** ROS2 환경에서 UWB 통신을 활용하여 사용자를 실시간으로 추적(Following)하거나, 목적지까지 안내(Navigation)하는 자율주행 스마트 카트를 개발했습니다.
+- **[주요 역할]** **부팀장**으로서 **하드웨어 플랫폼 커스터마이징** 및 **로드셀 센서 연동**을 전담했습니다. TurtleBot3의 구조를 개조하여 **센서와 모듈을 최적 배치**했습니다.
+- **[사용한 기술]** `Python`, `ROS2`, `Uvicorn`, `UWB`, `Load Cell`, `Qt`, `TurtleBot3`
+- **[관련 링크]**  
+  <a href="https://github.com/GiHwanC/QT-CART">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+- **[영상]**  
+  <a href="https://youtu.be/Nhjt9ZBUZIo">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  </a>
+
+### 2. OpenVINO 기반 공장 컨베이어 자동화 시스템
 - **[프로젝트 설명]** OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
 - **[주요 역할]** **PM**을 맡아 전체 **코드 통합** 및 **하드웨어 연동** 테스트를 총괄했습니다. (Arduino, 컨베이어 제어 등)
 - **[사용한 기술]** `Python`, `OpenVINO`, `Tkinter`, `Arduino`, `MySQL`, `PySerial`
@@ -46,7 +56,7 @@
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
-### 2. AI 기반 장문 텍스트 요약 서비스 (캡스톤 디자인)
+### 3. AI 기반 장문 텍스트 요약 서비스 (캡스톤 디자인)
 - **[프로젝트 설명]** SKT의 KoBART 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
 - **[주요 역할]** 
 - **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
@@ -55,7 +65,7 @@
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
   </a>
 
-### 3. CDS 센서 기반 태양광 패널 추적 시스템
+### 4. CDS 센서 기반 태양광 패널 추적 시스템
 - **[프로젝트 설명]** 8방위로 배치된 CDS 조도 센서 모듈을 통해 가장 밝은 빛을 감지하고, STM32 보드를 이용해 태양광 패널이 항상 태양을 향하도록 자동 회전하는 시스템을 구현했습니다.
 - **[주요 역할]** **STM32 파트의 하드웨어 설계** 및 **펌웨어 프로그래밍**을 담당했습니다. (ESP8266 WiFi 통신, MySQL DB 데이터 저장, 패널 회전 로직 구현)
 - **[사용한 기술]** `C`, `STM32`, `Arduino`, `MySQL`, `HTML`
@@ -66,7 +76,7 @@
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
-### 4. 차량 승하차 편의를 위한 자동 시트 조절기 (개인 프로젝트)
+### 5. 차량 승하차 편의를 위한 자동 시트 조절기 (개인 프로젝트)
 - **[프로젝트 설명]** 차량 승하차 편의를 위해, 차량 시동 상태와 기어 상태(P단)를 감지하여 시트 포지션을 자동으로 조절하는 하드웨어 시스템을 개발했습니다.
 - **[주요 역할]** 개인 프로젝트 (회로 설계, Arduino 프로그래밍 및 차량 설치)
 - **[사용한 기술]** `Arduino`, `Relay 2CH`
