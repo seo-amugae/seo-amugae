@@ -39,7 +39,7 @@
 - **[주요 역할]** 전체 코드 통합 및 하드웨어 연동 테스트를 총괄했습니다.
 - **[사용한 기술]** `Python`, `OpenVINO`, `Tkinter`, `Arduino`, `MySQL`, `PySerial`
 - **[관련 링크]**  
-  <a href="https://github.com/kccistc/intel-08/tree/main/Team2">
+  <a href="https://github.com/seo-amugae/Smartfactory">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
   </a>
 - **[영상]**  
@@ -52,7 +52,7 @@
 - **[주요 역할]** 하드웨어 플랫폼 커스터마이징 및 로드셀 센서 연동을 전담했습니다. TurtleBot3의 구조를 개조하여 센서와 모듈을 최적 배치했습니다.
 - **[사용한 기술]** `Python`, `ROS2`, `Uvicorn`, `UWB`, `Load Cell`, `Qt`, `TurtleBot3`
 - **[관련 링크]**  
-  <a href="https://github.com/GiHwanC/QT-CART">
+  <a href="https://github.com/seo-amugae/QT-CART">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
   </a>
 - **[영상]**  
