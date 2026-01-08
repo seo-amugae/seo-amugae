@@ -81,7 +81,7 @@
 - **[주요 역할]** STM32 파트의 하드웨어 설계 및 펌웨어 프로그래밍을 담당했습니다. (ESP8266 WiFi 통신, MySQL DB 데이터 저장, 패널 회전 로직 구현)
 - **[사용한 기술]** `C`, `STM32`, `Arduino`, `MySQL`, `HTML`
 - **[관련 링크]**  
-  <a href="https://github.com/intel-edge-ai-sw-8/250826_2nd_miniproj_08"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/seo-amugae/Solarsense"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 - **[영상]**  
   <a href="https://youtu.be/LcX8HYHIwDM">
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
