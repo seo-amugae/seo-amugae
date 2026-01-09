@@ -87,7 +87,24 @@
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
-### 5. AI 기반 장문 텍스트 요약 서비스 (캡스톤 디자인)
+### 5. 스마트 홈 환경 제어 IoT 시스템
+- **[프로젝트 설명]** Arduino 기반 스마트 홈 IoT 시스템으로 실내·외 온습도, 가스, 조도, 강우, 창문 상태를 실시간으로 수집하고, 전기매트·보일러·자동 창문을 시간대·환경 조건·사용자 설정에 따라 자동 또는 수동으로 제어하는 스마트 홈 환경 제어 시스템을 구현했습니다.
+- **[주요 역할]** 전체 시스템 설계 및 Arduino Mega 기반 펌웨어 개발을 담당했습니다. 센서 데이터 수집 로직, 히스테리시스 기반 난방 제어 알고리즘, 창문 리니어 액추에이터 제어 및 과부하 감지·복구 로직을 구현했으며, Ethernet Shield를 이용한 서버 통신과 EEPROM을 활용한 상태 유지 기능을 설계했습니다.
+- **[주요 구현 기능]**
+  - 전기매트·보일러 **히스테리시스 기반 항온 제어**
+  - 실내·외 환경 조건에 따른 **자동 창문 개폐 및 환기 제어**
+  - 창문 모터 **과부하 감지 및 자동 복구 로직**
+  - 실시간 시계(RTC) 기반 시간·요일별 자동 제어
+  - 원격 서버를 통한 상태 모니터링 및 수동 제어
+- **[사용한 기술]** `Arduino`, `C/C++`, `Ethernet`, `DHT22`, `MQ-5`, `MQ-7`, `RTC DS3231`, `Relay`, `EEPROM`
+- **[관련 링크]**  
+  <a href="https://github.com/seo-amugae/iot-project"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+- **[영상]**  
+  <a href="https://youtube.com/shorts/GTiXDOWSPs4">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  </a>
+
+### 6. AI 기반 장문 텍스트 요약 서비스 (캡스톤 디자인)
 - **[프로젝트 설명]** SKT의 KoBART 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
 - **[주요 역할]** AI 모델 서빙 및 백엔드 개발을 담당햇습니다. (Jetson Nano 환경 구축, API 연동 및 웹 인터페이스 구현)
 - **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
@@ -96,7 +113,7 @@
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
   </a>
 
-### 6. 차량 승하차 편의를 위한 자동 시트 조절기 (개인 프로젝트)
+### 7. 차량 승하차 편의를 위한 자동 시트 조절기 (개인 프로젝트)
 - **[프로젝트 설명]** 차량 승하차 편의를 위해, 차량 시동 상태와 기어 상태(P단)를 감지하여 시트 포지션을 자동으로 조절하는 하드웨어 시스템을 개발했습니다.
 - **[주요 역할]** 개인 프로젝트 (회로 설계, Arduino 프로그래밍 및 차량 설치)
 - **[사용한 기술]** `Arduino`, `Relay 2CH`
