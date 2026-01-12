@@ -109,8 +109,10 @@
 - **[주요 역할]** AI 모델 서빙 및 백엔드 개발을 담당햇습니다. (Jetson Nano 환경 구축, API 연동 및 웹 인터페이스 구현)
 - **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
 - **[관련 링크]**  
-  <a href="https://github.com/seo-amugae/Long-article-summary">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
+  <a href="https://github.com/seo-amugae/Long-article-summary"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+- **[영상]**  
+  <a href="https://youtu.be/Dnco_6wpfG0">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
 ### 7. 차량 승하차 편의를 위한 자동 시트 조절기 (개인 프로젝트)
