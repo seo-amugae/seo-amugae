@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
-### 2. ROS2 기반 사용자 추적 및 안내 스마트 카트 (QT-CART)
+### 2. ROS2 기반 사용자 추적 및 안내 스마트 카트
 - **[프로젝트 설명]** ROS2 환경에서 UWB 통신을 활용하여 사용자를 실시간으로 추적(Following)하거나, 목적지까지 안내(Navigation)하는 자율주행 스마트 카트를 개발했습니다.
 - **[주요 역할]** 하드웨어 플랫폼 커스터마이징 및 로드셀 센서 연동을 전담했습니다. TurtleBot3의 구조를 개조하여 센서와 모듈을 최적 배치했습니다.
 - **[사용한 기술]** `Python`, `ROS2`, `Uvicorn`, `UWB`, `Load Cell`, `Qt`, `TurtleBot3`
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
-### 4. 차량 승하차 편의를 위한 자동 시트 조절기 (개인 프로젝트)
+### 4. 차량 승하차 편의를 위한 자동 시트 조절기
 - **[프로젝트 설명]** 차량 승하차 편의를 위해, 차량 시동 상태와 기어 상태(P단)를 감지하여 시트 포지션을 자동으로 조절하는 하드웨어 시스템을 개발했습니다.
 - **[주요 역할]** 개인 프로젝트 (회로 설계, Arduino 프로그래밍 및 차량 설치)
 - **[사용한 기술]** `Arduino`, `Relay 2CH`
@@ -87,7 +87,7 @@
 ### 5. Kernel Driver 기반 시계 & 불쾌지수 측정기
 - **[프로젝트 설명]** Linux 기반 임베디드 시스템에서 DS1302 RTC, DHT11 센서, 로터리 엔코더, LED 바, I2C OLED를 연동하여 커널 드라이버가 하드웨어를 제어하고 유저 애플리케이션이 시계·온습도·불쾌지수(DI)를 멀티 페이지 UI로 표시하며 입력과 LED 시각화를 처리하는 스마트 시계 시스템을 개발했습니다.
 - **[주요 역할]** 하드웨어 구성 및 테스트를 담당하여 센서·로터리 엔코더·LED 배선, 디바운싱 검증, 시스템 동작 안정성 및 통합 테스트를 수행했습니다.
-- **[사용한 기술]** `C`, `Linux Kernel Driver`, `GPIO/IRQ`, `I2C`, `DS1302`, `DHT11`, `OLED(SSD1306)`, `Rotary Encoder`
+- **[사용한 기술]** `C`, `Linux Kernel Driver`, `I2C`, `DS1302`, `DHT11`, `SSD1306`, `Rotary Encoder`
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/Kernel-Weather-Clock">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
@@ -128,9 +128,9 @@
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
-### 8. AI 기반 장문 텍스트 요약 서비스 (캡스톤 디자인)
+### 8. AI 기반 장문 텍스트 요약 서비스
 - **[프로젝트 설명]** SKT의 KoBART 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
-- **[주요 역할]** AI 모델 서빙 및 백엔드 개발을 담당햇습니다. (Jetson Nano 환경 구축, API 연동 및 웹 인터페이스 구현)
+- **[주요 역할]** AI 모델 서빙 및 백엔드 개발을 담당했습니다. (Jetson Nano 환경 구축, API 연동 및 웹 인터페이스 구현)
 - **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/Long-article-summary"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
@@ -150,4 +150,4 @@
 
 ## Connect with Me
 
-E-MAIL: seo@chaegeon.com
+E-MAIL: seochaegeon1026@gmail.com
