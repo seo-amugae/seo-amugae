@@ -6,7 +6,7 @@
   센서·모터 제어부터 Edge AI까지, HW와 SW가 융합된 시스템을 만듭니다.<br>Arduino, Linux, Raspberry Pi 활용 경험을 바탕으로 Embedded & AIoT 역량을 넓혀가고 있습니다.
 </p>
 
-## Tech Stack & Skills
+## 스킬
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
@@ -32,7 +32,7 @@
 
 ---
 
-## Featured Projects
+## 프로젝트
 
 ### 1. OpenVINO 기반 공장 컨베이어 자동화 시스템 (🏅Intel Edge AI 프로젝트 경진대회 우수상)
 - **[프로젝트 설명]** OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
@@ -149,13 +149,19 @@
 
 ---
 
-## Education
+## 교육 사항
 
 * **목포대학교** 정보통신공학과 졸업 예정 (2026.02.)
 * **대한상공회의소 서울기술교육센터** 인텔 AI 엣지 아카데미 수료 (2025.07. ~ 2026.01.)
 
 ---
 
-## Connect with Me
+## 연락처
 
 E-MAIL: seochaegeon1026@gmail.com
+
+---
+
+## Github
+
+[![Metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
