@@ -38,6 +38,7 @@
 - **[프로젝트 설명]** OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
 - **[주요 역할]** 전체 코드 통합 및 하드웨어 연동 테스트를 총괄했습니다.
 - **[사용한 기술]** `Python`, `OpenVINO`, `Tkinter`, `Arduino`, `MySQL`, `PySerial`
+- **[수행 기간]** 2025. 09. 24. ~ 2025. 10. 22.
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/Smartfactory">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
@@ -51,6 +52,7 @@
 - **[프로젝트 설명]** ROS2 환경에서 UWB 통신을 활용하여 사용자를 실시간으로 추적(Following)하거나, 목적지까지 안내(Navigation)하는 자율주행 스마트 카트를 개발했습니다.
 - **[주요 역할]** 하드웨어 플랫폼 커스터마이징 및 로드셀 센서 연동을 전담했습니다. TurtleBot3의 구조를 개조하여 센서와 모듈을 최적 배치했습니다.
 - **[사용한 기술]** `Python`, `ROS2`, `Uvicorn`, `UWB`, `Load Cell`, `Qt`, `TurtleBot3`
+- **[수행 기간]** 2025. 11. 20. ~ 2026. 01. 04.
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/QT-CART">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
@@ -64,6 +66,7 @@
 - **[프로젝트 설명]** 차량 OBD-II 기반 CAN/UDS/OBD 통신으로 속도·조향각·브레이크·RPM 데이터를 수집하고, 위험 운전 행동(급가속/급제동/급조향 등)과 교통 흐름 방해 행동(저속 지속/평균 대비 저속 등)을 감점 요인으로 반영하여 운전 성향을 점수화하고 TFT 디스플레이에 실시간 시각화하는 시스템을 개발했습니다.
 - **[주요 역할]** 하드웨어 회로 구성, CAN 통신 환경 구축, TFT/SD 모듈 연동, 차량 실환경 테스트를 담당했습니다.
 - **[사용한 기술]** `Arduino`, `C/C++`, `MCP2515`, `CAN`, `UDS`, `OBD-II`, `Adafruit_ILI9341`, `SD`, `DS1302`
+- **[수행 기간]** 2026. 01. 06. ~ 2026. 01. 19.
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/driving-risk-flow-scoring">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
@@ -77,6 +80,7 @@
 - **[프로젝트 설명]** 차량 승하차 편의를 위해, 차량 시동 상태와 기어 상태(P단)를 감지하여 시트 포지션을 자동으로 조절하는 하드웨어 시스템을 개발했습니다.
 - **[주요 역할]** 개인 프로젝트 (회로 설계, Arduino 프로그래밍 및 차량 설치)
 - **[사용한 기술]** `Arduino`, `Relay 2CH`
+- **[수행 기간]** 2024. 10. ~ 2025. 01.
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/auto-seat-height-controller"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 - **[영상]**  
@@ -88,6 +92,7 @@
 - **[프로젝트 설명]** Linux 기반 임베디드 시스템에서 DS1302 RTC, DHT11 센서, 로터리 엔코더, LED 바, I2C OLED를 연동하여 커널 드라이버가 하드웨어를 제어하고 유저 애플리케이션이 시계·온습도·불쾌지수(DI)를 멀티 페이지 UI로 표시하며 입력과 LED 시각화를 처리하는 스마트 시계 시스템을 개발했습니다.
 - **[주요 역할]** 하드웨어 구성 및 테스트를 담당하여 센서·로터리 엔코더·LED 배선, 디바운싱 검증, 시스템 동작 안정성 및 통합 테스트를 수행했습니다.
 - **[사용한 기술]** `C`, `Linux Kernel Driver`, `I2C`, `DS1302`, `DHT11`, `SSD1306`, `Rotary Encoder`
+- **[수행 기간]** 2025. 12. 24. ~ 2025. 12. 29.
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/Kernel-Weather-Clock">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
@@ -104,6 +109,7 @@
 - **[프로젝트 설명]** 8방위로 배치된 CDS 조도 센서 모듈을 통해 가장 밝은 빛을 감지하고, STM32 보드를 이용해 태양광 패널이 항상 태양을 향하도록 자동 회전하는 시스템을 구현했습니다.
 - **[주요 역할]** STM32 파트의 하드웨어 설계 및 펌웨어 프로그래밍을 담당했습니다. (ESP8266 WiFi 통신, MySQL DB 데이터 저장, 패널 회전 로직 구현)
 - **[사용한 기술]** `C`, `STM32`, `Arduino`, `MySQL`, `HTML`
+- **[수행 기간]** 2025. 08. 21. ~ 2025. 08. 25.
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/Solarsense"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 - **[영상]**  
@@ -121,6 +127,7 @@
   - 실시간 시계(RTC) 기반 시간·요일별 자동 제어
   - 원격 서버를 통한 상태 모니터링 및 수동 제어
 - **[사용한 기술]** `Arduino`, `C/C++`, `Ethernet`, `DHT22`, `MQ-5`, `MQ-7`, `RTC DS3231`, `Relay`, `EEPROM`
+- **[수행 기간]** 2022. 12. ~ 2023. 02.
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/iot-project"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 - **[영상]**  
@@ -132,6 +139,7 @@
 - **[프로젝트 설명]** SKT의 KoBART 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
 - **[주요 역할]** AI 모델 서빙 및 백엔드 개발을 담당했습니다. (Jetson Nano 환경 구축, API 연동 및 웹 인터페이스 구현)
 - **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
+- **[수행 기간]** 2025. 03. 10. ~ 2025. 06. 20.
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/Long-article-summary"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 - **[영상]**  
@@ -144,7 +152,7 @@
 ## Education
 
 * **목포대학교** 정보통신공학과 졸업 예정 (2026.02.)
-* **대한상공회의소 서울기술교육센터** 인텔 AI 엣지 아카데미 교육 중 (2025.07. ~ 2026.01.)
+* **대한상공회의소 서울기술교육센터** 인텔 AI 엣지 아카데미 수료 (2025.07. ~ 2026.01.)
 
 ---
 
