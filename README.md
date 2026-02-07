@@ -84,7 +84,7 @@
 - **[관련 링크]**  
   <a href="https://github.com/seo-amugae/auto-seat-height-controller"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 - **[영상]**  
-  <a href="https://youtu.be/nxEUnxjBgeY">
+  <a href="https://youtu.be/hg2iJN6IdzY">
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
