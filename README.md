@@ -34,7 +34,7 @@
 
 ## 프로젝트
 
-### 1. OpenVINO 기반 공장 컨베이어 자동화 시스템 (🏅Intel Edge AI 프로젝트 경진대회 우수상)
+### 1. OpenVINO 기반 공장 컨베이어 자동화 시스템 (🏅Intel 엣지 AI 실무 프로젝트 경진대회 우수상)
 - **[프로젝트 설명]** OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
 - **[주요 역할]** 전체 코드 통합 및 하드웨어 연동 테스트를 총괄했습니다.
 - **[사용한 기술]** `Python`, `OpenVINO`, `Tkinter`, `Arduino`, `MySQL`, `PySerial`
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
-### 3. OBD CAN 기반 운전 성향 분석 시스템 (🏅Intel Edge AI 프로젝트 경진대회 우수상)
+### 3. OBD CAN 기반 운전 성향 분석 시스템 (🏅Intel 엣지 AI 비전 개발 프로젝트 경진대회 우수상)
 - **[프로젝트 설명]** 차량 OBD-II 기반 CAN/UDS/OBD 통신으로 속도·조향각·브레이크·RPM 데이터를 수집하고, 위험 운전 행동(급가속/급제동/급조향 등)과 교통 흐름 방해 행동(저속 지속/평균 대비 저속 등)을 감점 요인으로 반영하여 운전 성향을 점수화하고 TFT 디스플레이에 실시간 시각화하는 시스템을 개발했습니다.
 - **[주요 역할]** 하드웨어 회로 구성, CAN 통신 환경 구축, TFT/SD 모듈 연동, 차량 실환경 테스트를 담당했습니다.
 - **[사용한 기술]** `Arduino`, `C/C++`, `MCP2515`, `CAN`, `UDS`, `OBD-II`, `Adafruit_ILI9341`, `SD`, `DS1302`
